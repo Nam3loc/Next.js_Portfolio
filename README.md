@@ -8,7 +8,7 @@ I created this portfolio so that you had a few of my favorite projects along wit
 
 This project is deployed on [Netlify](https://docs.netlify.com/) at the following link:
 
-https://nam3loc.github.io/portfolio-website/
+https://nextjs-personalportfolio.netlify.app/
 
 ## Features
 - Fully responsive app
