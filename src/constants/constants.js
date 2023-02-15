@@ -42,5 +42,5 @@ export const TimeLineData = [
   { year: 2017, text: 'Graduated from ministry school and pursued a career in ministry', },
   { year: 2020, text: 'Due to COVID-19, I uncovered my passion for programming and decided to pursue it', },
   { year: 2022, text: 'Began teaching myself how to code for free online. Got married and moved to a new state, Cincinnati, OH, and joined a Full-Stack coding bootcamp.', },
-  { year: 2022, text: 'Graduated from the bootcamp and use my skills to help make an impact on the world', },
+  { year: 2023, text: 'Graduated from the bootcamp and use my skills to help make an impact on the world', },
 ];
