@@ -3,7 +3,7 @@ export const projects = [
     title: 'Pinterest',
     description: "The Pinterest Clone is a MERN full-stack web app, built using MongoDB, Express, React, and Node.js during a bootcamp as a capstone project. It replicates the popular social media site Pinterest, offering users the ability to create, view, and manage boards and pins. To enhance the user experience, tags for easy searching and a 'Full Experience' button for recruiters to preview the app will be added.",
       image: '/images/pinterest.png',
-      tags: ['Mongo', 'Express', 'React', 'Node', &nbsp 'MaterialUi', 'bcrypt'],
+      tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://pinterest-clone-5q1t.onrender.com/pins',
     visit: 'https://github.com/Nam3loc/pinterest',
     id: 0,
