@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'HTML/CSS Portfolio',
-    description: "I created a personal portfolio using HTML, CSS, flexbox, grid, and incorporating responsive design, animations, and media queries. The portfolio showcases three projects that I am particularly proud of and displays my skills in designing a visually appealing and functional web page that can adapt to different screen sizes and devices.",
-      image: '/images/Original-Portfolio.png',
-      tags: ['HTML', 'CSS', 'JavaScript', 'DOM Manipulation'],
-    source: 'https://nam3loc.github.io/portfolio-website/',
-    visit: 'https://github.com/Nam3loc/portfolio-website',
+    title: 'PocketDM',
+    description: "PocketDM is an app that uses OpenAI's API to give DMs a chatbot-like experience to create engaging encounters for their tabletop RPG campaigns. Generate randomized encounters, brainstorm plot twists, and save time on your prep throughout the week. To enhance the experience, future plans include adding more features and giving more functionality to the buttons on the page, such as the randomize encounter button.",
+      image: '/images/pocketdm.png',
+      tags: ['TypeScript', 'TailwindCSS', 'React', 'Node'],
+    source: 'https://dm-assistant.onrender.com/',
+    visit: 'https://github.com/chingu-voyages/v43-tier3-team-44',
     id: 2,
   },
   {
