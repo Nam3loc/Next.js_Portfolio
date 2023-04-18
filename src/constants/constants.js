@@ -9,15 +9,6 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Dijkstras Pathfinding Algorithm Visualizer',
-    description:"This project demonstrates the implementation of Dijkstra's Pathfinding Algorithm in a web-based format using JavaScript, HTML, and CSS. The user can input a starting and ending point along with obstacles to visualize the shortest path. This project highlights the developer's technical proficiency in JavaScript and web development, as well as their understanding of computer science concepts like graph theory and pathfinding algorithms. To enhance the experience, future plans include adding more features and improving the user interface, as well as integrating the A* pathfinding algorithm.",
-    image: '/images/Dijkstras.png',
-    tags: ['React', 'Node', 'JavaScript'],
-    source: 'https://dijkstras-pathfinding-visualizer.netlify.app/',
-    visit: 'https://github.com/Nam3loc/Pathfinding-Visualizer',
-    id: 1,
-  },
-  {
     title: 'PocketDM',
     description: "PocketDM is an app that uses OpenAI's API to give DMs a chatbot-like experience to create engaging encounters for their tabletop RPG campaigns. Generate randomized encounters, brainstorm plot twists, and save time on your prep throughout the week. To enhance the experience, future plans include adding more features and giving more functionality to the buttons on the page, such as the randomize encounter button.",
       image: '/images/pocketdm.png',
@@ -25,6 +16,15 @@ export const projects = [
     source: 'https://dm-assistant.onrender.com/',
     visit: 'https://github.com/chingu-voyages/v43-tier3-team-44',
     id: 2,
+  },
+  {
+    title: 'Dijkstras Pathfinding Algorithm Visualizer',
+    description:"This project demonstrates the implementation of Dijkstra's Pathfinding Algorithm in a web-based format using JavaScript, HTML, and CSS. The user can input a starting and ending point along with obstacles to visualize the shortest path. This project highlights the developer's technical proficiency in JavaScript and web development, as well as their understanding of computer science concepts like graph theory and pathfinding algorithms. To enhance the experience, future plans include adding more features and improving the user interface, as well as integrating the A* pathfinding algorithm.",
+    image: '/images/Dijkstras.png',
+    tags: ['React', 'Node', 'JavaScript'],
+    source: 'https://dijkstras-pathfinding-visualizer.netlify.app/',
+    visit: 'https://github.com/Nam3loc/Pathfinding-Visualizer',
+    id: 1,
   },
   {
     title: 'Bloons Tower Defense',
