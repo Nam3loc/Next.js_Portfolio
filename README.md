@@ -28,7 +28,7 @@ https://nextjs-personalportfolio.netlify.app/
 
 ## Contributing
 
-I was inspired by the JavaScript Mastery. I plan to make more changes and make this project more unique.
+I was inspired by JavaScript Mastery.
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
