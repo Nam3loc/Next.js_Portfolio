@@ -4,6 +4,8 @@ Welcome To my Portfolio Website!
 
 I created this portfolio so that you had a few of my favorite projects along with easy access to my contact info. I look forward to connecting with you!
 
+Duration: 3 days
+
 ## Deployment
 
 This project is deployed on [Netlify](https://docs.netlify.com/) at the following link:
