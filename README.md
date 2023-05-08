@@ -10,7 +10,7 @@ Duration: 3 days
 
 This project is deployed on [Netlify](https://docs.netlify.com/) at the following link:
 
-https://nextjs-personalportfolio.netlify.app/
+https://colemanescue.netlify.app/
 
 ## Features
 - Fully responsive app
