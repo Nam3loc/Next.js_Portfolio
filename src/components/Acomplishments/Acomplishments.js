@@ -4,16 +4,16 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 35, text: 'Open Source Projects'},
-  { number: 60, text: 'Repositories', },
+  { number: 8, text: 'Open Source Projects', },
+  { number: 68, text: 'Repositories', },
   { number: 15, text: 'Technology Proficiencies', },
-  { number: 144, text: 'LinkedIn Followers', }
+  { number: 500, text: 'LinkedIn Connections', }
 ];
 
 const Acomplishments = () => (
   <Section>
     <SectionTitle>Personal Accomplishments</SectionTitle>
-    <Boxes>
+    <Boxes onClick={() => window.open('https://github.com/Nam3loc', '_blank')} style={{cursor: 'pointer'}}>
       {data.map((card, index) => (
         <Box key={index}>
           <BoxNum>{card.number}</BoxNum>

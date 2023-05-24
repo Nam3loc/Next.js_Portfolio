@@ -18,12 +18,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Dijkstras Pathfinding Algorithm Visualizer',
-    description:"This project demonstrates the implementation of Dijkstra's Pathfinding Algorithm in a web-based format using JavaScript, HTML, and CSS. The user can input a starting and ending point along with obstacles to visualize the shortest path. This project highlights the developer's technical proficiency in JavaScript and web development, as well as their understanding of computer science concepts like graph theory and pathfinding algorithms. To enhance the experience, future plans include adding more features and improving the user interface, as well as integrating the A* pathfinding algorithm.",
-    image: '/images/Dijkstras.png',
-    tags: ['React', 'Node', 'JavaScript'],
-    source: 'https://dijkstras-pathfinding-visualizer.netlify.app/',
-    visit: 'https://github.com/Nam3loc/Pathfinding-Visualizer',
+    title: 'Shopping Cart',
+    description:"A shopping cart app that allows you to enter ingredients and adds them to a cart for easy reference while at the store. You can also remove ingredients from the cart when you have obtained them. I did this project to learn more about Firebase and it's realtime database.",
+    image: '/images/shopping_cart_screenshot.png',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Firebase'],
+    source: 'https://finstacart.netlify.app/',
+    visit: 'https://github.com/Nam3loc/shopping_cart/tree/main',
     id: 1,
   },
   {

@@ -16,7 +16,7 @@ const Hero = (props) => (
         Software Engineer with a passion for problem-solving and empathy honed from a background in ministry, seeking to make an impact through innovative applications and collaboration.
       </SectionText>
 
-      <Button onClick={() => window.open('/resume/Coleman-Escue-Resume.pdf', '_blank')}>Learn More</Button>
+      <Button onClick={() => window.open('/resume/Coleman-Escue-Resume.pdf', '_blank')}>View Resume</Button>
     </LeftSection>
   </Section>
 );
