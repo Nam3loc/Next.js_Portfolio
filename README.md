@@ -4,11 +4,13 @@ Welcome To my Portfolio Website!
 
 I created this portfolio so that you had a few of my favorite projects along with easy access to my contact info. I look forward to connecting with you!
 
+Duration: 3 days
+
 ## Deployment
 
 This project is deployed on [Netlify](https://docs.netlify.com/) at the following link:
 
-https://nextjs-personalportfolio.netlify.app/
+https://colemanescue.netlify.app/
 
 ## Features
 - Fully responsive app
@@ -26,7 +28,7 @@ https://nextjs-personalportfolio.netlify.app/
 
 ## Contributing
 
-I was inspired by the JavaScript Mastery. I plan to make more changes and make this project more unique.
+I was inspired by JavaScript Mastery.
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
